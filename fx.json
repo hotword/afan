@@ -542,8 +542,10 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/COKEMV影院.json",
-      "jar": "./lib/xyqh.jar;md5;316660b0adb299c1dc63587579a3522e"
+      "jar": "./lib/xyqh.jar"
     },
+    {"key":"baipiaoys","name":"白嫖≛影视","type":3,"changeable":1,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","ext":"https://syc.lvdoui.top/jar/xyq/xbpq_白嫖影视.json","jar":"https://6741.kstore.space/xbpq.jar"},
+    {"key":"baipiaoys12","name":"宇宙≛影视","type":3,"changeable":1,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","ext":"https://syc.lvdoui.top/jar/xyq/yz.json","jar":"https://6741.kstore.space/xbpq.jar"},
     {
       "key": "csp_XYQH_电波",
       "name": "电波≛电波",
