@@ -42,7 +42,7 @@
     {
       "name": "直播5",
       "type": "0",
-      "url": "./lib/IPTV-tvbox.txt"
+      "url": "https://jihulab.com/MCaveMan/andy_public/-/raw/9bf81789acf0ffa3ab901d02e98c156c57509a7f/tv/ipv6_andy.txt"
     },
     {
       "name": "FAN-IPV6",
@@ -61,7 +61,7 @@
       "filterable": 0,
       "api": "./lib/lf_search3_min.js"
     },
-    {"key": "Fangniu4k","name": "影探≛影视","type": 3,"api": "csp_Fangniu4k","searchable": 1,"changeable": 0,"jar": "./lib/王二.jar"},
+   // {"key": "Fangniu4k","name": "影探≛影视","type": 3,"api": "csp_Fangniu4k","searchable": 1,"changeable": 0,"jar": "./lib/王二.jar"},
     {
       "key": "南瓜",
       "name": "南瓜≛影视",
