@@ -98,6 +98,33 @@
       "changeable": 0,
       "jar": "./lib/王二.jar"
     },
+     {
+      "key": "原创",
+      "name": "原创≛影视",
+      "type": 3,
+      "api": "csp_YCyz",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,"jar":"http://152.32.170.60/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
+      "changeable": 1
+    },
+       {
+      "key": "nangua",
+      "name": "南瓜≛影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://jihulab.com/xubinhua2011/zhibotv/-/raw/main/lib/drpy2.min.js","jar":"http://152.32.170.60/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
+      "ext": "https://jihulab.com/xubinhua2011/zhibotv/-/raw/main/lib/%E5%8D%97%E7%93%9C.js"
+      },
+    {
+      "key": "萌米",
+      "name": "萌米≛影视",
+      "type": 3,
+      "api": "csp_AppTT",
+      "timeout": 15,
+      "playerType": 1,"jar":"http://152.32.170.60/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
+      "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
+    },
     {
       "key": "TV酷（APP）",
       "name": "特酷≛影视",
