@@ -5,22 +5,22 @@
     {
       "name": "运输",
       "type": "0",
-      "url": "./lib/ysclive.txt"
+      "url": "https://jihulab.com/blank2394714/tv1/-/raw/c9efcff2df48bd898c8bbb4e89ccc189ef1b4e7e/3.json"
     },
     {
       "name": "宁宁",
       "type": "0",
-      "url": "./lib/宁宁ZB.json"
+      "url": "http://154.3.0.114/zb/zbjk.txt"
     },
     {
       "name": "直播1",
       "type": "0",
-      "url": "./lib/live.txt"
+      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u"
     },
     {
       "name": "直播2",
       "type": "0",
-      "url": "./lib/live.js"
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/pdscxz/TV/main/itvba/tv.txt"
     },
     {
       "name": "直播3",
