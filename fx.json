@@ -913,6 +913,15 @@
       "timeout": 60,
       "jar": "./lib/xyqh.jar;md5;316660b0adb299c1dc63587579a3522e"
     },
+              {
+            "key": "Wexduanjuvop",
+            "name": "秒播≛短剧",
+            "type": 3,
+            "api": "csp_Wexduanjuvop",
+            "jar":"https://cloud.lxweb.cn/f/apVxt6/fn.jar;md5;18eedce2077dc99c909607aa71ff50ac",
+            "searchable": 1,
+            "changeable": 1
+        },
     {
       "key": "量子",
       "name": "量子≛短剧",
