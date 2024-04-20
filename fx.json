@@ -91,6 +91,56 @@
     },
     {"key": "Fangniu4k","name": "影探≛影视","type": 3,"api": "csp_Fangniu4k","searchable": 1,"changeable": 0,"jar": "./lib/王二.jar"},
     {
+      "key": "南瓜",
+      "name": "南瓜≛影视",
+      "type": 3,
+      "api": "csp_NanGua",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 2,
+      "filterable": 1,
+      "ext": "","jar":"./lib/fix24225.jar"
+    },
+    {
+      "key": "天天",
+      "name": "天天≛影视",
+      "type": 3,
+      "api": "csp_TTian",
+      "playerType": 2,
+      "ext": "http://op.ysdqjs.cn","jar":"./lib/fix24225.jar"
+    },
+    {
+      "key": "热播",
+      "name": "热播≛影视",
+      "type": 3,
+      "api": "csp_TTian",
+      "playerType": 2,
+      "ext": "http://v.rbotv.cn","jar":"./lib/fix24225.jar"
+    },
+    {
+      "key": "追剧",
+      "name": "追剧≛影视",
+      "type": 3,
+      "api": "csp_TTian",
+      "playerType": 2,
+      "ext": "http://app.kzjtv.com","jar":"./lib/fix24225.jar"
+    },
+    {
+      "key": "发电",
+      "name": "发电≛影视",
+      "type": 3,
+      "api": "csp_Fdys",
+      "playerType": 2,"jar":"./lib/fix24225.jar"
+    },
+    {
+      "key": "柠檬",
+      "name": "柠檬≛影视",
+      "type": 3,
+      "api": "csp_Nmvod",
+      "playerType": 2,
+      "ext": "https://api.cnmcom.com/webcloud/nmapl/anmm.php?url=","jar":"./lib/fix24225.jar"
+    },
+    {
       "key": "原创",
       "name": "原创≛影视",
       "type": 3,
