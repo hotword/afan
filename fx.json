@@ -17,7 +17,11 @@
       "type": "0",
       "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/Guovin/TV/master/result.txt"
     },
-    
+        {
+      "name": "直播0",
+      "type": 0,
+      "url": "https://jihulab.com/zxj/zxj/-/raw/main/txt/live.txt"
+    },
     {
       "name": "直播1",
       "type": "0",
@@ -166,6 +170,8 @@
       "quickSearch": 1,
       "changeable": 1
     },
+      {"key":"csp_xBPQ可可","name":"可可≛影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/yunge8/kk/-/raw/main/kk.json",
+      "jar": "./lib/xbpq.jar"},
     {
       "key": "白嫖",
       "name": "白飘≛影视",
