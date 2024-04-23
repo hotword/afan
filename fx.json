@@ -25,7 +25,7 @@
     {
       "name": "直播1",
       "type": "0",
-      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u"
+      "url": "https://jihulab.com/fcbox/tv/-/raw/main/cyzb.txt"
     },
     {
       "name": "直播2",
@@ -49,7 +49,7 @@
       "url": "https://jihulab.com/MCaveMan/andy_public/-/raw/9bf81789acf0ffa3ab901d02e98c156c57509a7f/tv/ipv6_andy.txt"
     },
     {
-      "name": "FAN-IPV6",
+      "name": "FAN",
       "type": "0",
       "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u"
     }
