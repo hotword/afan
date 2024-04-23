@@ -2,10 +2,10 @@
   "wallpaper": "https://picsum.photos/1280/720/?blur=2",
   "spider": "./lib/pg.jar",
   "lives": [
-    {
-      "name": "运输",
+          {
+      "name": "kg",
       "type": "0",
-      "url": "https://jihulab.com/blank2394714/tv1/-/raw/c9efcff2df48bd898c8bbb4e89ccc189ef1b4e7e/3.json"
+      "url": "https://jihulab.com/kgsp/tv/-/raw/box/666.txt"
     },
     {
       "name": "宁宁",
