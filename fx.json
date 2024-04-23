@@ -139,17 +139,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    {
-      "key": "Xinsj",
-      "name": "视觉≛影视",
-      "type": 3,
-      "api": "csp_Xinsj",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.80yy3.com/"
-    },
+    {"key": "Xinsj","name": "视觉≛影视","type": 3,"api": "csp_Xinsj","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.80yy3.com/","jar":"https://jihulab.com/zxwwp1/TVBox/-/raw/main/jar/Yoursmile.jar"},
     {
       "key": "厂长",
       "name": "厂长≛影视",
@@ -160,7 +150,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.czzy77.com/"
+      "ext": "https://www.czzy77.com/","jar":"https://jihulab.com/zxwwp1/TVBox/-/raw/main/jar/Yoursmile.jar"
     },
     {
       "key": "77",
@@ -170,7 +160,7 @@
       "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "changeable": 1,"jar":"https://jihulab.com/zxwwp1/TVBox/-/raw/main/jar/Yoursmile.jar"
     },
       {"key":"csp_xBPQ可可","name":"可可≛影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/yunge8/kk/-/raw/main/kk.json",
       "jar": "./lib/xbpq.jar"},
