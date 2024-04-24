@@ -109,7 +109,7 @@
       "playerType": 2,
       "ext": "https://api.cnmcom.com/webcloud/nmapl/anmm.php?url=","jar":"./lib/fix24225.jar"
     },
-    {"key":"畅梦影视","name":"畅梦≛影视","type":3,"api":"htt://1.v.nxog.top/m/js/nxog.js","ext":"htt://1.v.nxog.top/m/js/103.js"},
+    {"key":"畅梦影视","name":"畅梦≛影视","type":3,"api":"htt://1.v.nxog.top/m/js/nxog.js","ext":"htt://1.v.nxog.top/m/js/103.js","jar":"https://jihulab.com/zxwwp1/TVBox/-/raw/main/jar/Yoursmile.jar"},
     {"key": "XBPQ_飞行影视","name": "飞行≛影院", "type": 3,"api": "csp_XBPQ","jar": "./jar/XBPQ.jar","ext": {"分类": "电影$1#电视剧$2#综艺$3#动漫$4", "分类url": "https://www.tomato-china.net/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","jar":"./JAR/XBPQ.jar"       }},
 
     {
