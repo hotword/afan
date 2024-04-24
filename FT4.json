@@ -3,91 +3,115 @@
   "sites": [
     {
       "key": "T4-douban",
-      "name": "Ó°ÊÓ-¶¹°ê(T4)",
+      "name": "å½±è§†-è±†ç“£(T4)",
       "type": 4,
       "api": "https://catbox.n13.club/douban.php"
     },
     {
       "key": "T4-yugaopian",
-      "name": "Ó°ÊÓ-Ô¤¸æÆ¬(T4)",
+      "name": "å½±è§†-é¢„å‘Šç‰‡(T4)",
       "type": 4,
       "api": "https://catbox.n13.club/yugaopian.php"
     },
     {
-      "key": "T4-¾çÈ¦",
-      "name": "Ó°ÊÓ-¾çÈ¦(T4)",
+      "key": "T4-mingri",
+      "name": "æ˜æ—¥çœ‹ç‰‡å­",
+      "type": 4,
+      "api": "https://catbox.n13.club/mingri.php"
+    },
+    {
+      "key": "T4-heihu",
+      "name": "é»‘ç‹èµ„æº",
+      "type": 4,
+      "api": "https://catbox.n13.club/heihu.php"
+    },
+    {
+      "key": "T4-juquan",
+      "name": "å‰§åœˆåœˆ",
       "type": 4,
       "api": "https://catbox.n13.club/juquan.php"
     },
     {
-      "key": "T4-ºÚºü",
-      "name": "Ó°ÊÓ-ºÚºü(T4)",
+      "key": "T4-6v",
+      "name": "ç£åŠ›-6V(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/6v.php"
+    },
+    {
+      "key": "T4-å‰§åœˆ",
+      "name": "å½±è§†-å‰§åœˆ(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/juquan.php"
+    },
+    {
+      "key": "T4-é»‘ç‹",
+      "name": "å½±è§†-é»‘ç‹(T4)",
       "type": 4,
       "api": "https://catbox.n13.club/heihu.php"
     },
     {
       "key": "T4-jp",
-      "name": "Ó°ÊÓ-¼öÆ¬(T4)",
+      "name": "å½±è§†-èç‰‡(T4)",
       "type": 4,
       "api": "https://catbox.n13.club/jianpian.php"
     },
     {
-      "key": "T4-ÄÏ¹Ï",
-      "name": "Ó°ÊÓ-ÄÏ¹Ï(T4)",
+      "key": "T4-å—ç“œ",
+      "name": "å½±è§†-å—ç“œ(T4)",
       "type": 4,
       "api": "https://catbox.n13.club/nangua.php"
     },
     {
-      "key": "T4-¼«¹â",
-      "name": "Ó°ÊÓ-¼«¹â(T4)",
+      "key": "T4-æå…‰",
+      "name": "å½±è§†-æå…‰(T4)",
       "type": 4,
       "api": "https://catbox.n13.club/jiguang.php"
     },
     {
       "key": "T4-caiji",
-      "name": "Ó°ÊÓ-²É¼¯(T4)",
+      "name": "å½±è§†-é‡‡é›†(T4)",
       "type": 4,
       "api": "https://catbox.n13.club/caiji.php"
     },
     {
       "key": "T4-wencai",
-      "name": "Ó°ÊÓ-ÎÄ²Å(T4)",
+      "name": "å½±è§†-æ–‡æ‰(T4)",
       "type": 4,
       "api": "https://catbox.n13.club/wencai.php"
     },
     {
       "key": "T4-xinshijue",
-      "name": "Ó°ÊÓ-ĞÂÊÓ¾õ(T4)",
+      "name": "å½±è§†-æ–°è§†è§‰(T4)",
       "type": 4,
       "api": "https://catbox.n13.club/xinshijue.php"
     },
     {
       "key": "T4-saohuo",
-      "name": "Ó°ÊÓ-É§»ğ(T4)",
+      "name": "å½±è§†-éªšç«(T4)",
       "type": 4,
       "api": "https://catbox.n13.club/saohuo.php"
     },
     {
       "key": "T4-jojo",
-      "name": "Ó°ÊÓ-jojo(T4)",
+      "name": "å½±è§†-jojo(T4)",
       "type": 4,
       "api": "https://catbox.n13.club/jojo.php"
     },
     {
       "key": "T4-mingri",
-      "name": "Ó°ÊÓ-Ã÷ÈÕ(T4)",
+      "name": "å½±è§†-æ˜æ—¥(T4)",
       "type": 4,
       "api": "https://catbox.n13.club/mingri.php"
     },
     {
       "key": "T4-6v",
-      "name": "´ÅÁ¦-6V(T4)",
+      "name": "ç£åŠ›-6V(T4)",
       "type": 4,
       "api": "https://catbox.n13.club/6v.php"
     },
     {
-      "key": "T4-ßÙàÖ",
-      "name": "´ÅÁ¦-ßÙàÖ(T4)",
+      "key": "T4-å“”å˜€",
+      "name": "ç£åŠ›-å“”å˜€(T4)",
       "type": 4,
       "api": "https://catbox.n13.club/bdys.php"
     }
@@ -130,7 +154,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "Ö±²¥",
+      "name": "ç›´æ’­",
       "type": 0,
       "playerType": 1,
       "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
@@ -159,7 +183,7 @@
       "name": "live.feimao",
       "type": 0,
       "playerType": 1,
-      "url": "http://ÎÒ²»ÊÇ.·ÊÃ¨.live/TV/tvzb.txt",
+      "url": "http://æˆ‘ä¸æ˜¯.è‚¥çŒ«.live/TV/tvzb.txt",
       "ua": "okhttp/3.12.13",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -242,7 +266,7 @@
       ]
     },
     {
-      "name": "º£Íâ¿´",
+      "name": "æµ·å¤–çœ‹",
       "hosts": [
         "haiwaikan"
       ],
@@ -254,7 +278,7 @@
       ]
     },
     {
-      "name": "±©ïL",
+      "name": "æš´é¢¨",
       "hosts": [
         "bfzy"
       ],
@@ -263,7 +287,7 @@
       ]
     },
     {
-      "name": "ĞÇĞÇ",
+      "name": "æ˜Ÿæ˜Ÿ",
       "hosts": [
         "aws.ulivetv.net"
       ],
@@ -272,7 +296,7 @@
       ]
     },
     {
-      "name": "Á¿×Ó",
+      "name": "é‡å­",
       "hosts": [
         "vip.lz",
         "hd.lz",
@@ -283,7 +307,7 @@
       ]
     },
     {
-      "name": "·Ç·²",
+      "name": "éå‡¡",
       "hosts": [
         "vip.ffzy",
         "hd.ffzy"
@@ -372,7 +396,7 @@
       ]
     },
     {
-      "name": "»ğÉ½ĞáÌ½",
+      "name": "ç«å±±å—…æ¢",
       "hosts": [
         "huoshan.com"
       ],
@@ -381,7 +405,7 @@
       ]
     },
     {
-      "name": "¶¶ÒôĞáÌ½",
+      "name": "æŠ–éŸ³å—…æ¢",
       "hosts": [
         "douyin.com"
       ],
@@ -390,7 +414,7 @@
       ]
     },
     {
-      "name": "ŞrÃñĞáÌ½",
+      "name": "è¾²æ°‘å—…æ¢",
       "hosts": [
         "toutiaovod.com"
       ],
@@ -399,7 +423,7 @@
       ]
     },
     {
-      "name": "Ò¹ÊĞ",
+      "name": "å¤œå¸‚",
       "hosts": [
         "yeslivetv.com"
       ],
@@ -408,7 +432,7 @@
       ]
     },
     {
-      "name": "Ã«óH",
+      "name": "æ¯›é©¢",
       "hosts": [
         "www.maolvys.com"
       ],
@@ -417,33 +441,33 @@
       ]
     },
     {
-      "name": "´ÅÁ¦¹ã¸æ",
+      "name": "ç£åŠ›å¹¿å‘Š",
       "hosts": [
         "magnet"
       ],
       "regex": [
-        "¸ü¶à",
-        "Éç …^",
+        "æ›´å¤š",
+        "ç¤¾ å€",
         "x u u",
-        "×î ĞÂ",
-        "Ö± ²¥",
-        "¸ü ĞÂ",
-        "Éç Çø",
-        "ÓĞ È¤",
-        "Ó¢»ÊÌåÓı",
-        "È«ÖĞÎÄAVÔÚÏß",
-        "°ÄÃÅ»Ê¹Ú¶Ä³¡",
-        "¸ç¸ç¿ìÀ´",
-        "ÃÀÅ®ºÉ¹Ù",
-        "ÂãÁÄ",
-        "ĞÂÆ¬Ê×·¢",
+        "æœ€ æ–°",
+        "ç›´ æ’­",
+        "æ›´ æ–°",
+        "ç¤¾ åŒº",
+        "æœ‰ è¶£",
+        "è‹±çš‡ä½“è‚²",
+        "å…¨ä¸­æ–‡AVåœ¨çº¿",
+        "æ¾³é—¨çš‡å† èµŒåœº",
+        "å“¥å“¥å¿«æ¥",
+        "ç¾å¥³è·å®˜",
+        "è£¸èŠ",
+        "æ–°ç‰‡é¦–å‘",
         "UUE29"
       ]
     }
   ],
   "parses": [
     {
-      "name": "¾ÛºÏ",
+      "name": "èšåˆ",
       "type": 3,
       "url": "Demo"
     },
@@ -453,12 +477,12 @@
       "url": "https://jx.777jiexi.com/player/?url="
     },
     {
-      "name": "½ÜÉ­",
+      "name": "æ°æ£®",
       "type": 0,
       "url": "https://jx.jsonplayer.com/player/?url="
     },
     {
-      "name": "Õ½ÀÇ",
+      "name": "æˆ˜ç‹¼",
       "type": 0,
       "url": "https://jx.zhanlangbu.com/?url="
     },
@@ -474,14 +498,14 @@
       "ext": {
         "flag": [
           "qq",
-          "ÌÚÑ¶",
+          "è…¾è®¯",
           "qiyi",
-          "°®ÆæÒÕ",
-          "ÆæÒÕ",
+          "çˆ±å¥‡è‰º",
+          "å¥‡è‰º",
           "youku",
-          "ÓÅ¿á",
+          "ä¼˜é…·",
           "mgtv",
-          "Ã¢¹û",
+          "èŠ’æœ",
           "letv",
           "leshi",
           "LS",
@@ -489,8 +513,8 @@
           "PPTV",
           "sohu",
           "bilibili",
-          "ßÙÁ¨ßÙÁ¨",
-          "ßÙÁ¨"
+          "å“”å“©å“”å“©",
+          "å“”å“©"
         ],
         "header": {
           "User-Agent": ""
@@ -498,7 +522,7 @@
       }
     },
     {
-      "name": "²»ÀÛ",
+      "name": "ä¸ç´¯",
       "type": 0,
       "url": "https://blbfq.f3322.net/player/analysis.php?v=",
       "ext": {
@@ -522,7 +546,7 @@
       "url": "https://ksksl.codjx.com/?url="
     },
     {
-      "name": "byg½âÎö",
+      "name": "bygè§£æ",
       "type": 0,
       "url": "https://byg.ziqj5.shop/?url="
     },
@@ -538,23 +562,23 @@
       "ext": {
         "flag": [
           "qq",
-          "ÌÚÑ¶",
+          "è…¾è®¯",
           "qiyi",
           "iqiyi",
-          "°®ÆæÒÕ",
-          "ÆæÒÕ",
+          "çˆ±å¥‡è‰º",
+          "å¥‡è‰º",
           "youku",
-          "ÓÅ¿á",
+          "ä¼˜é…·",
           "mgtv",
-          "Ã¢¹û",
+          "èŠ’æœ",
           "letv",
-          "ÀÖÊÓ",
+          "ä¹è§†",
           "pptv",
           "PPTV",
           "sohu",
           "bilibili",
-          "ßÙÁ¨ßÙÁ¨",
-          "ßÙÁ¨"
+          "å“”å“©å“”å“©",
+          "å“”å“©"
         ]
       }
     },
@@ -564,7 +588,7 @@
       "url": "http://vip.26db.cn/g/?url="
     },
     {
-      "name": "¿´¿´",
+      "name": "çœ‹çœ‹",
       "type": 0,
       "url": "https://jx.m3u8.pw/?url="
     },
@@ -591,6 +615,6 @@
     "mgtv",
     "wasu"
   ],
-  "wallpaper": "http://·¹Ì«Ó².top/ÉîÉ«±ÚÖ½/api.php",
+  "wallpaper": "http://é¥­å¤ªç¡¬.top/æ·±è‰²å£çº¸/api.php",
   "disabled_wallpaper": "http://www.kf666888.cn/api/tvbox/img"
 }
