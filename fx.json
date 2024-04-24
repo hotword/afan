@@ -86,6 +86,7 @@
       "playerType": 2,
       "ext": "http://v.rbotv.cn","jar":"./lib/fix24225.jar"
     },
+    {"key":"JQQ","name":"JQQ","type":3,"api":"csp_XBPQ","jar":"./jar/xbpq.jar","ext":{"分类":"电影&电视剧&动漫&综艺","分类url":"https://www.jqqzx.cc/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html"}},
     {
       "key": "追剧",
       "name": "追剧≛影视",
